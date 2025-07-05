@@ -4,9 +4,10 @@
 This isn’t just a group. It’s a launchpad for dreamers, doers, and builders who want more than just an internship.
 
 We now have 200+ members, including:
-👨‍🎓 Students
-🧑‍💻 Freelancers
-🧠 Seniors from different fields
+
+- 👨‍🎓 Students
+- 🧑‍💻 Freelancers
+- 🧠 Seniors from different fields
 
 — all serious about their careers, growth, and learning.
 
