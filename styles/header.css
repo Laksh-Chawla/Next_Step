@@ -1,0 +1,52 @@
+header {
+  margin-left: 4px;
+  background-color: white;
+  display: flex;
+  border-radius: 40px 40px 40px 40px;
+  top: 10px;
+  left: 10px;
+  right: 10px;
+  z-index: 1000;
+  position: fixed;
+}
+
+.header-division {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 8px;
+}
+
+.header-division a {
+  display: flex;
+  align-items: center;
+  text-decoration: none;
+  color: black;
+  margin-right: 32px;
+  margin-left: 10px;
+}
+
+.header-division .website-name-header:hover {
+  text-decoration: none !important;
+}
+
+.header-division img {
+  height: 45px;
+  margin-right: 10px;
+}
+
+.header-division p {
+  margin: 0;
+  font-weight: bold;
+  font-size: 15px;
+}
+
+nav {
+  display: flex;
+  font-size: 15px;
+}
+
+nav .nav-links {
+  margin: 0px;
+  margin-right: 20px;
+}
