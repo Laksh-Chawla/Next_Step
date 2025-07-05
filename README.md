@@ -13,7 +13,7 @@ We now have 200+ members, including:
 
 ## 💡 What You’ll Find Here
 
-💼 Internship & job leads that aren't shared publicly
+💼 Internship & job leads that aren't shared publicly<br>
 🔗 High-quality resources to help you learn faster
 💬 Real conversations about ideas, careers, and growth
 🤝 Collaborators and like-minded people who get it
